@@ -1,2 +1,9 @@
-# automated-tests
-Implementation of automated tests on a mobile and web app
+# Pruebas automatizadas
+
+Implementación de pruebas automatizadas en una aplicación web y en dos aplicaciones móviles
+
+La explicación de la implementación de las pruebas puede ser encontrada en la Wiki del repositorio
+
+## Integrantes
+- Andrés Varón
+- Gabriel Pinto

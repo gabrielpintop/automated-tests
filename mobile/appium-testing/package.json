@@ -1,0 +1,14 @@
+{
+  "name": "appium-testing",
+  "version": "1.0.0",
+  "description": "Appium testing implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Pinto & Andres Varon",
+  "license": "ISC",
+  "dependencies": {
+    "webdriverio": "^6.5.2"
+  }
+}

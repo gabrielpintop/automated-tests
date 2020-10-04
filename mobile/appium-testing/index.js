@@ -9,7 +9,7 @@ const opts = {
     capabilities: {
         platformName: 'Android',
         platformVersion: '9',
-        deviceName: 'Pixel_2_API_28',
+        deviceName: process.argv.slice(2)[0] || 'Pixel_2_API_28',
         app: '',
         automationName: 'UiAutomator2'
     },
@@ -191,7 +191,6 @@ const clickBackButton = async (query = 'android.widget.ImageButton', location = 
 };
 
 main('limpia');
-// main('modificada');
 
 // {
 //   "platformName": "Android",

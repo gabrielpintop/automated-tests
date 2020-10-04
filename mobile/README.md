@@ -16,7 +16,7 @@ Implementa pruebas automatizadas en ambos APK que se encargan de probar algunas 
 3) Instalar las dependencias con el comando `npm i`
 4) Ejecutar las pruebas con el comando `node index.js nombreEmulador`. Donde se debe reemplazar `nombreEmulador` por el nombre del emulador que se esta ejecutando
 
-Al final de la ejecución se imprimen los resultados de los tests en la consola y dentro de las carpetas `screenhosts/limpia` y `screenhosts/modifcada` se encuentran los tests almacenados
+Al final de la ejecución se imprimen los resultados de los tests en la consola y dentro de las carpetas `screenhosts/limpia` y `screenhosts/modificada` se encuentran los tests almacenados
 
 Un ejemplo de la ejecución de las pruebas puede ser visto en el siguiente video https://www.youtube.com/watch?v=HrNspm2NZG0
 

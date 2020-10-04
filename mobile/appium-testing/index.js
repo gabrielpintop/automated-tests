@@ -175,7 +175,7 @@ const testAbout = async () => {
     await client.pause(200);
     await aboutOptions[2].click();
     await client.pause(200);
-    await clickBackButton('android=new UiSelector().resourceId("org.quantumbadger.redreader:id/actionbar_title_outer")', 'About: license');
+    await clickBackButton('android=new UiSelector().resourceId("org.quantumbadger.redreader:id/actionbar_title_outer")', 'About: Whats new');
     await client.pause(200);
     await clickBackButton('android.widget.ImageButton', 'About');
 };
